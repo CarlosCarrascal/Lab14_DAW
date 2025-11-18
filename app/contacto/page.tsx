@@ -30,3 +30,7 @@ export default function ContactoPage() {
         <p className="text-lg text-zinc-600 dark:text-zinc-400 mb-12">
           ¿Tienes preguntas sobre optimización SEO o rendimiento web? Estamos aquí para ayudarte.
         </p>
+      </main>
+    </div>
+  );
+}
